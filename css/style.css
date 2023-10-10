@@ -1742,6 +1742,10 @@ figure.dotted-bg:before {
   color: #ff5c33;
 }
 
+.detail-v1 .detail-val a :hover {
+  color: #ff9147;
+}
+
 .unslate_co--footer {
   text-align: center;
   font-weight: 300;
