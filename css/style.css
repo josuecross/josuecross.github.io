@@ -1739,11 +1739,11 @@ figure.dotted-bg:before {
 }
 
 .detail-v1 .detail-val a {
-  color: #ff5c33;
+  color: #ff3333;
 }
 
-.detail-v1 .detail-val a :hover {
-  color: #ff9147;
+.detail-v1 .detail-val a:hover {
+  color: #ff1919;
 }
 
 .unslate_co--footer {
