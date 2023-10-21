@@ -5,15 +5,10 @@
 
 
 ![Author](https://img.shields.io/badge/author-ApurvShah007-green)
-![Last Commit](https://img.shields.io/github/last-commit/ApurvShah007/ApurvShah007.github.io)
+![Last Commit](https://img.shields.io/github/last-commit/josuecross/ApurvShah007.github.io)
 ![Maintained](https://img.shields.io/maintenance/yes/2020)
-![Issues](https://img.shields.io/github/issues/ApurvShah007/ApurvShah007.github.io)
+![Issues](https://img.shields.io/github/issues/josuecross/josuecross.github.io)
 </br>
 </br>
-This is my personal website. Please visit [Apurv Shah](https://apurvshah007.github.io)
+This is my personal website. Please visit [Josue Cruz Lopez](https://josuecross.github.io/)
 
-I would love any suggestions or ideas from anyone and everyone. If you like this template, leave a ⭐️ .
-</br>
-</br>
-
-[![HitCount](http://hits.dwyl.com/ApurvShah007/ApurvShah007.github.io.svg)](http://hits.dwyl.com/ApurvShah007/ApurvShah007.github.io)
